@@ -1,3 +1,4 @@
+print('Умножение деление')
 operat = input('Выберите операцию: ')
 while True: 
   if operat in '+-*/':
