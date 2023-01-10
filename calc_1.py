@@ -1,4 +1,5 @@
 print('Умножение деление')
+print('Вычитание сложение')
 operat = input('Выберите операцию: ')
 while True: 
   if operat in '+-*/':
